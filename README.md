@@ -1,4 +1,3 @@
-# TO DO AND STATUS
 # To Do
 
 ## Task 3.1: Estimation of sea-ice concentration, ice type and extent including uncertainties
