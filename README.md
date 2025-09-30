@@ -22,6 +22,7 @@
 - [x] Co-locate with Era5  
   - [ ] Tb with validation data other than Era5
 - [ ] Find dynamical tiepoints for ice in SIC alghoritm
+-   [ ] MYI vs FYI
   - [ ] Antarctica
   - [ ] Arctic   
 
